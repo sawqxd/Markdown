@@ -6,14 +6,12 @@ Module2
 
 <https://facebook.com>
 
-(../sawqxd/Markdown/markdownfile.md)
+<https://github.com/sawqxd/Markdown/markdownfile.md>
 
 image that is located in file directory
-![
+![alt text](https://github.com/sawqxd/Markdown/SS2.png "random SS")
 
 
-![alt text][logo]
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
 
 ```c
 int x = 5;
