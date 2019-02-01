@@ -9,8 +9,9 @@ Module2
 <https://github.com/sawqxd/Markdown/markdownfile.md>
 
 image that is located in file directory
-![alt text](https://github.com/sawqxd/Markdown/SS2.png "random SS")
+![SS2](https://github.com/sawqxd/Markdown/blob/master/SS2.png "random SS")
 
+![image](https://unsplash.com/photos/CpeUoLVTAs8)
 
 
 ```c
@@ -36,3 +37,7 @@ printf ("%d", x);
 _This is italized text_
 
 ~~This is strikethrough text.~~
+
+Horizonal Rule
+
+---
